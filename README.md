@@ -1,6 +1,6 @@
 <h1>Alura Play</h1>
 
-Projeto realizado durante o curso: Formação Front End T6 - ONE + Alura
+Projeto realizado durante o curso: Formação Front End T6 - ONE Oracle + Alura
 
 O objetivo do projeto é criar um site responsivo semelhante ao Youtube, assim exercitando conhecimentos sobre CSS e FlexBox.
 
